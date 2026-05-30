@@ -1,5 +1,7 @@
 # DecodeLabs-Project2-Iris-Classification
 
+---
+
 # Iris Flower Classification Project
 
 A concise machine learning project that visualizes the Iris dataset and trains basic classification models (K-Nearest Neighbors and Support Vector Machine) to predict iris flower species.
