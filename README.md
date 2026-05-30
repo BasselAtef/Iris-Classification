@@ -6,6 +6,11 @@ A concise machine learning project that visualizes the Iris dataset and trains b
 
 ---
 
+## If review fails to load on github:
+* **Go to this link**
+`https://nbviewer.org/`
+* **Then paste the github repo link**
+
 ## 📈 Features
 
 * **Exploratory Data Analysis:** Computes dataset shapes and generates a correlation heatmap using `seaborn`.
