@@ -1,4 +1,4 @@
-# DecodeLabs-Project2-Iris-Classification
+# Iris-Classification
 
 ---
 
